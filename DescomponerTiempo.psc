@@ -5,7 +5,7 @@ Algoritmo DescomponerTiempo
 	
 	Escribir "Ingrese la cantidad de minutos: "
 	Leer tiempo
-	
+	Escribir tiempo
 	//Calcular
 	horas = trunc (tiempo / 60)
 	minutos = (tiempo Mod 60)
