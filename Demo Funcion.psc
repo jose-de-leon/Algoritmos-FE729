@@ -17,3 +17,10 @@ Algoritmo DemoFuncion
 	MostrarResultado(resultado)
 	
 FinAlgoritmo
+
+
+
+
+
+
+
